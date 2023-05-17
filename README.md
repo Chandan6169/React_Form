@@ -3,8 +3,8 @@
 first open material icon => https://mui.com/core/
 
 
-then add a command in the terminal : npm install @mui/material @emotion/react @emotion/style 
-After this we can add a icon in the terminal
+then add a command in the terminal : 'npm install @mui/material @emotion/react @emotion/style' 
+
 
 
 We need to follow these steps to start
